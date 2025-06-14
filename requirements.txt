@@ -1,0 +1,12 @@
+# libararies to install
+
+matplotlib
+numpy
+
+# a third party module to install 
+# named graphviz
+# used to make custom grphs in the repo
+# https://gitlab.com/api/v4/projects/4207231/packages/generic/graphviz-releases/13.0.0/windows_10_cmake_Release_graphviz-install-13.0.0-win64.exe
+
+
+# python version above 3.10 is recommended
